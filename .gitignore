@@ -1,0 +1,7 @@
+# Secrets — never commit
+.env
+*.key
+*.pem
+# Local output
+logs/
+backups/
